@@ -14,6 +14,8 @@ This project is built to create and serve static content. for e.g Blogs
           -components
        -public
        -package.json`
+
+       
       
 
 ## Contribution guidelines
